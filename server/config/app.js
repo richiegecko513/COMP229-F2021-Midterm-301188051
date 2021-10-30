@@ -1,3 +1,8 @@
+/*
+app.js
+Richie Hickey, 301188051
+COMP229-F2021-Midterm-301188051
+*/
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');
